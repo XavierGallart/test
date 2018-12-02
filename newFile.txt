@@ -1,2 +1,3 @@
 "New file" 
 Text after "New file"
+New line user 1
