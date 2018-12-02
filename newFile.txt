@@ -1,3 +1,4 @@
 "New file" 
+Bug resolved
 Text after "New file"
 New line user both users. Conflict solved
