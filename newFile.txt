@@ -2,3 +2,4 @@
 Bug resolved
 Text after "New file"
 New line user both users. Conflict solved
+Working on another bug
